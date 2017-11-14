@@ -1,0 +1,12 @@
+// 385 Final Project
+/*
+
+  Info: 
+    The overall goal of htis prject is to create an MS Paint emulator using both hardware and software applications. Through the use
+    of System on Chip (SOC), the project will have software and hardware communication. The overall control of the application will be using
+    a C program, while the graphics controls and computations will be primarily carried out through hardware calculations.
+    
+    Two different input devices will be used in order to control the application. The first is a PS/2 mouse and the second is a USB
+    controlled keyboard. The inputs from the keyboard and mouse will be first 
+ 
+*/
